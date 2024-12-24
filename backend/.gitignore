@@ -1,0 +1,11 @@
+# Python
+*.pyc
+__pycache__/
+
+# Virtual environment
+.venv/
+
+# Data
+src/models/*.csv
+src/models/*.idx
+src/models/*.npy
